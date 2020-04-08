@@ -5,7 +5,7 @@
 </p>
 
 # Applications
-| Team Name | One-liner | Proposal link | Members | Status |
+| Project Name | One-liner | Proposal link | Members | Status |
 |-----------|-----------|---------------|---------|--------|
 |LocalKarma|LocalKarma is a scalable, open-source e-commerce plugin that enables shop owners to provide customers with the ability to confidently and securely donate to intelligently-suggested local charities by rounding up their orders at checkout.|               |         |Awaiting decision|
 |           |           |               |         |        |
